@@ -6,3 +6,7 @@ $ git config --global user.email sagamorales@gmail.com
 //ls lita los directorios
 pwd para ver en que directorio estamos
 <h1>Hello, World!</h1>
+
+$ git config --global core.autocrlf false
+
+$ git config --global core.safecrlf false
